@@ -1,0 +1,156 @@
+DOCTYPE html>
+ <html lang="ar">
+ <head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Beauty365 |  Regain your youth</title>
+
+ <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+
+ <style>
+ body {
+ font-family: 'Cairo', sans-serif;
+ margin:0;
+ background:#f7f7f7;
+ text-align:center;
+ }
+
+ .hero {
+ background: linear-gradient(135deg,#ff4d6d,#ff758f);
+ color:white;
+ padding:40px 20px;
+ }
+
+ .hero h1 {
+ font-size:28px;
+ margin-bottom:15px;
+ }
+
+ .container {
+ padding:20px;
+ }
+
+ .card {
+ background:white;
+ padding:20px;
+ margin:15px;
+ border-radius:15px;
+ box-shadow:0 5px 15px rgba(0,0,0,0.1);
+ }
+
+ .btn {
+ display:inline-block;
+ background:#ff3d00;
+ color:white;
+ padding:15px 25px;
+ font-size:18px;
+ border-radius:10px;
+ text-decoration:none;
+ margin-top:15px;
+ }
+
+ .btn:hover {
+ background:#dd2c00;
+ }
+
+ img {
+ max-width:100%;
+ border-radius:10px;
+ }
+
+ .badge {
+ background:#4caf50;
+ color:white;
+ padding:5px 10px;
+ border-radius:5px;
+ font-size:12px;
+ }
+
+ .testimonial {
+ font-size:14px;
+ color:#555;
+ margin-top:10px;
+ }
+
+ .footer {
+ font-size:12px;
+ color:#888;
+ margin:20px;
+ }
+</style>
+
+</head>
+
+<body>
+
+<!-- 🔥 Hero Section -->
+<div class="hero">
+<h1>🔥 Restore your youthful skin in 7 days!</h1>
+<p>The natural solution thousands of women are using now</p>
+</div>
+
+<!-- 🧴 Product -->
+<div class="container">
+
+<div class="card">
+<img src="https://youtric24.com/wp-content/uploads/2023/beauty365.png">
+<p class="badge">✔ 100% Natural Product</p>
+
+<h2>Say goodbye to wrinkles and dull skin</h2>
+
+<p>
+beauty365 helps you restore your skin's radiance from within
+With natural ingredients that support collagen and restore your youth
+</p>
+
+<a  href="https://youtric24.com/beauty365/#aff=Dragon369399&cam=Zm98HJdbJpcTQPvc9PNh" class="btn">
+👉 Order Now
+</a>
+</div>
+
+<!-- 💎 Benefits -->
+<div class="card">
+<h2>✨ What Will You Get?</h2>
+
+<p>✔ Firmer, Smoother Skin</p>
+<p>✔ Reduced Wrinkles and Fine Lines</p>
+<p>✔ Healthier, Stronger Hair</p>
+<p>✔ Noticeable Results in Weeks</p>
+
+</div>
+
+<!-- ⭐ Testimonials -->
+<div class="card">
+<h2>💬 Customer Experiences</h2>
+
+<p class="testimonial">
+"After just two weeks, my skin is so much smoother!"  - Sarah
+
+</p>
+
+<p class="testimonial">
+"The difference is so obvious on my face… I look younger!" - Maryam
+
+</p>
+
+</div>
+
+<!-- 🚀 CTA -->
+<div class="card">
+<h2>⏳ Limited Offer!</h2>
+<p>Don't miss out – order now before it's gone</p>
+
+<a href="https://youtric24.com/beauty365/#aff=Dragon369399&cam=Zm98HJdbJpcTQPvc9PNh" class="btn">
+🔥 Get it now
+</a>
+
+</div>
+
+</div>
+
+<div class="footer">
+This site uses affiliate links and we may receive a commission on your purchase
+</div>
+
+</body>
+</html>
